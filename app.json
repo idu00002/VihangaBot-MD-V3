@@ -26,13 +26,13 @@
                         "ANTIBAD" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
    
                                 "ANTIVIEWONCE" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
        
                                         "ANTILINK" :{
@@ -62,13 +62,37 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*
+
+*🍁අයිතිකරු  𝚌𝚑𝚊𝚝𝚑𝚞 𝚋𝚊𝚋𝚊 😋💖 💫*
+
+*🍁HI I'M ONLINE NOW TO TEST   🔪. 𝚊𝚕𝚒𝚟𝚎 💫*
+
+*🍁GET FULL MENU FOR TYPE    🔪.MENU 💫*
+
+*🍁GET STICKER FOR TYPE  🔪.STICKER  💫*
+
+*🍁GET SONG FOR TYPE  🔪.SONG💫*
+
+*🍁GET VIDEO FOR   🔪.VIDEO  💫*
+
+*🍁අයිතිකරු දැන්ගැනීමට   🔪.𝚘𝚠𝚗𝚎𝚛 💫*
+
+*🍁 අයිතිකරු සමග සම්බන්ධ වීමට     🔪
+
+        
+
+ http://wa.me/+94777511834?text=°◕𝓗𝓘-යකූ-නම-ගම-කියන්න-සෙවු-කරගන්න
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ*"
     },
         
 "CALL_BLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "AUTO_BLOCK212" :{
@@ -92,73 +116,89 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "😋"
     },
       
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94777511834"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94777511834"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "766660528"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "𝙸𝙳𝚄 𝚋𝚊𝚋𝚊 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 🤓😋"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "chathu baba 💃💖"
     },
       
-"GROUP_LINK" :{
+"OWNER_NUMBER" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "
+
+ http://wa.me/+94777511834?text=°◕𝓗𝓘-යකූ-නම-ගම-කියන්න-සෙවු-කරගන්න
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲
+
+ 
+
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ"
 },
       
-  "GROUP_LINK2" :{
+  "SHAKABOOM😌🖕" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "
+
+ http://wa.me/+94777511834?text=°◕𝓗𝓘-යකූ-නම-ගම-කියන්න-සෙවු-කරගන්න
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲
+
+ 
+
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "⛲ 𝚒𝚍𝚞 𝚋𝚊𝚋𝚊  ⃨𝚋oƚ 😋💖  ࿐"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈   𝕓ͥ𝕒ͩ𝕓ͧ𝕒☬⚒  ²⁰²² ♰*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://ibb.co/z673bFv"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "value" :"shakaboom 😌🖕 "
     }
     },
   
